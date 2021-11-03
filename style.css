@@ -1,0 +1,65 @@
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+
+  .rod {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 680px;
+        background-color:rgb(214, 213, 213);
+        height: px;
+        text-align: center;
+        
+  }
+
+  .topnav {
+    overflow: hidden;
+    background-color: rgb(214, 213, 213);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 680px;
+    text-align: center;
+    
+
+  }
+
+  .box {
+      width: 200px;
+      height: 75px;
+      padding: 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      
+      float: left;
+      align-items: center;
+      font-size: smaller;
+    
+  }
+
+  .bg-blue {
+      background-color: rgb(40, 223, 198);
+  }
+
+  .bg-pink {
+      background-color: rgb(40, 223, 198);
+  }
+
+  .bg-red {
+    background-color: rgb(40, 223, 198);
+  }
+
+  .topnavv {
+    background-color: rgb(40, 223, 198);
+  }
+
+.container {
+    width: 1000px;
+    margin-left: 275px;
+    
+}
